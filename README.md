@@ -29,15 +29,16 @@ I'm trying hard for reaching my goal. Although, I start late than other, my pass
 <br>
 <br>
 <br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 now studying
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/java-2C2255?style=for-the-badge&logo=java&logoColor=orange">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
