@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm trying hard for reaching my goal. Although i start late than other, my passion is more than their. Everytime, i think effort never bertray me.
+
+I'm trying hard for reaching my goal. Although, I start late than other, my passion is more than their. 
+Everytime, i think effort never bertray me. So, I struggle and struggle. I don't quit.
 <br>
 <br>
 
