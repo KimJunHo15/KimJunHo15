@@ -16,39 +16,25 @@ Here are some ideas to get you started:
 -->
 
 I'm trying hard for reaching my goal. Although i start late than other, my passion is more than their. Everytime, i think effort never bertray me.
+<br>
+<br>
 
-  
-   
-    
-     
-      
-       
-        
-         
-         
- 
- 
-
- 
-  
-   
-    
-     
-      
-       
-        
-         
-         
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 now studying
- - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
- - <img src="https://img.shields.io/badge/java-2C2255?style=for-the-badge&logo=java&logoColor=orange">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/java-2C2255?style=for-the-badge&logo=java&logoColor=orange">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-    
-     
-   
-   
-    
-  
-    
-  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJunHo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
