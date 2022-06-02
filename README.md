@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm trying hard for reaching my goal. Although i start late than other, my passion is more than their. Everytime, i think effort never bertray me.
 
-#3776AB
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
