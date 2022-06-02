@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 
 I'm trying hard for reaching my goal. Although, I start late than other, my passion is more than their. 
+<br>
+<br>
 <b>Everytime, i think effort never bertray me. So, I struggle and struggle. I don't quit.</b>
 <br>
 <br>
